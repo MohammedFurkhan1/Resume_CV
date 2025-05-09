@@ -131,6 +131,5 @@ st.markdown("""
 #contact
 st.markdown("""
 <div class='section-title'>CONTACT</div>
-st.markdown("""
-<div class='section-title'>Mail :</div>""", unsafe_allow_html=True) mohammedfurkhan073@gmail.com | Mobile : +91 8217405450 | Location : Hyderabad ,India
+<strong> Mail :  </strong> mohammedfurkhan073@gmail.com | Mobile : +91 8217405450 | Location : Hyderabad ,India
 """, unsafe_allow_html=True)
