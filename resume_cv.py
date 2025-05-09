@@ -87,8 +87,8 @@ st.markdown("""
 # Professional Experience
 st.markdown("<div class='section-title'>WORKING EXPERIENCE</div>", unsafe_allow_html=True)
 st.markdown("""
-**DevOps Engineer | TCS (Citi Bank Client)**  
-*June 2022 - Present*
+**DevOps Engineer | TCS (Citi Bank Client)**  *June 2022 - Present*
+
 - Implementing and maintaining CI/CD pipelines using Jenkins for Citi Bank's financial applications
 - Managing AWS infrastructure using Terraform and CloudFormation
 - Collaborating with development teams to automate deployment processes
