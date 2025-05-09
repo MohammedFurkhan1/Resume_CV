@@ -145,5 +145,5 @@ English | Hindi | Kannada
 #contact
 st.markdown("""
 <div class='section-title'>CONTACT</div>
-<strong> Mail :  </strong> mohammedfurkhan073@gmail.com <strong> | Mobile : </strong> +91 8217405450 <strong> | Location : </strong>Hyderabad ,India | <strong> | Linkedin : </strong> <a href="https://www.linkedin.com/in/mohammed-furkhan-93256b1a2 ">Mohammed Furkhan</a>
+<strong> Mail :  </strong> mohammedfurkhan073@gmail.com <strong> | Mobile : </strong> +91 8217405450 <strong> | Location : </strong>Hyderabad ,India  <strong> | Linkedin : </strong> <a href="https://www.linkedin.com/in/mohammed-furkhan-93256b1a2 ">Mohammed Furkhan</a>
 """, unsafe_allow_html=True)
