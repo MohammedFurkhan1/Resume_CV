@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide",
      page_icon ="📑",
     
-     initial_sidebar_state="expanded",
+     initial_sidebar_state="collapsed",
     menu_items={
         'Get Help': None,
         'Report a bug': None,
