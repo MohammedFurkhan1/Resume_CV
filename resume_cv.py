@@ -1,14 +1,29 @@
 import streamlit as st
 from PIL import Image
+# Clear cache and state
+st.cache_data.clear()
+st.session_state.clear()
 
 # Page Configuration
 st.set_page_config(
     page_title="Mohammed Furkhan - DevOps Engineer",
     layout="wide",
-    initial_sidebar_state="collapsed",
-     page_icon ="📑"
+     page_icon ="📑",
+    
+     initial_sidebar_state="expanded",
+    menu_items={
+        'Get Help': None,
+        'Report a bug': None,
+        'About': None
+    }
+    
     
 )
+# Add security headers
+st.markdown("""
+    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' *">
+""", unsafe_allow_html=True)
+
 
 # Custom CSS for Word-like styling
 st.markdown("""
