@@ -55,7 +55,7 @@ body {
 st.markdown("""
 <div class='resume-header'>
     <h1 style='margin-bottom: 5px;'>Mohammed Furkhan</h1>
-     <h3 style='margin: 5px;'>DevOps Engineer</h3>
+     <h3 style='margin: 2px;'>DevOps Engineer</h3>
     
 </div>
 """, unsafe_allow_html=True)
