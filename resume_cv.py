@@ -5,7 +5,9 @@ from PIL import Image
 st.set_page_config(
     page_title="Mohammed Furkhan - DevOps Engineer",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed",
+     page_icon ="📑"
+    
 )
 
 # Custom CSS for Word-like styling
@@ -129,5 +131,5 @@ st.markdown("""
 #contact
 st.markdown("""
 <div class='section-title'>CONTACT</div>
-mohammedfurkhan073@gmail.com | +91 8217405450 | Hyderabad ,India
+Mail : mohammedfurkhan073@gmail.com | Mobile : +91 8217405450 | Location : Hyderabad ,India
 """, unsafe_allow_html=True)
